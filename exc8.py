@@ -1,0 +1,7 @@
+ficheiro = open("auth.log", "r")
+texto = ficheiro.read()
+ficheiro.close()
+
+root = texto.count("for root")
+
+print("Tentativas contra root:", root)

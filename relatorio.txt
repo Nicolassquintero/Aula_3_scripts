@@ -1,0 +1,27 @@
+RELATORIO DE AUTENTICAÇAO
+==============================
+Tentativas falhadas: 28
+Logins com sucesso: 4
+Total de linhas: 32
+Taxa de falha: 87.50%Pesquisa do IP 8.8.8.8: 0 ocorrências
+
+ATAQUES POR IP
+==============================
+IP 61.177.173.22: 11 ataques
+IP 193.168.1.45: 9 ataques
+IP 222.186.42.7: 6 ataques
+IP 45.148.10.3: 2 ataques
+
+ATAQUES POR IP
+==============================
+IP 61.177.173.22: 11 ataques
+IP 193.168.1.45: 9 ataques
+IP 222.186.42.7: 6 ataques
+IP 45.148.10.3: 2 ataques
+
+ATAQUES POR IP
+==============================
+IP 61.177.173.22: 11 ataques
+IP 193.168.1.45: 9 ataques
+IP 222.186.42.7: 6 ataques
+IP 45.148.10.3: 2 ataques

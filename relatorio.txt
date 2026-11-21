@@ -11,17 +11,3 @@ IP 61.177.173.22: 11 ataques
 IP 193.168.1.45: 9 ataques
 IP 222.186.42.7: 6 ataques
 IP 45.148.10.3: 2 ataques
-
-ATAQUES POR IP
-==============================
-IP 61.177.173.22: 11 ataques
-IP 193.168.1.45: 9 ataques
-IP 222.186.42.7: 6 ataques
-IP 45.148.10.3: 2 ataques
-
-ATAQUES POR IP
-==============================
-IP 61.177.173.22: 11 ataques
-IP 193.168.1.45: 9 ataques
-IP 222.186.42.7: 6 ataques
-IP 45.148.10.3: 2 ataques
